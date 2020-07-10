@@ -10,12 +10,11 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 🌱 **I'm currently interested in**
 
-- the concepts of functional programming in Haskell.
+- the concepts of functional programming in Haskell
 - connections between theories of natural language (generative, cognitive, constructional, etc.) and paradigms of computer programming (OOP, FP, etc.)
 
 📫 **How to reach me**
 
 - Twitter: [@yohasebe](https://twitter.com/yohasebe)
 - Email: [yohasebe@gmail.com](mailto:yohasebe@gmail.com)
-
 
