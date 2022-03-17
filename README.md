@@ -5,7 +5,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 🔭 **I'm currently working on**
 
 - [TED Corpus Search Engine](https://yohasebe.com/tcse) (TCSE)
-- [Paradocs](https://yohasebe.com/paradocs): Paragraph-Oriented Text Document Presentation System
+- [RSyntaxtree](https://yohasebe.com/rsyntaxtree): Syntax tree SVG/PNG image generator for linguists
 - [jReadability.net](https://jreadability.net) and other web-apps for learners/teachers of the Japanese language
 
 🌱 **I'm currently interested in**
