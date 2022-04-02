@@ -1,20 +1,22 @@
 ### Hi there 👋 I'm Yoichiro Hasebe (長谷部 陽一郎) 
 
-My research area includes cognitive linguistics, comparative linguistics, and corpus linguistics. I work on several projects of developing online systems that aid educators and learners of language.
+My research area includes cognitive linguistics, comparative linguistics, and corpus linguistics. I work on several projects of developing online systems that aid researchers, educators and learners of language.
 
 🔭 **I'm currently working on**
 
-- [TED Corpus Search Engine](https://yohasebe.com/tcse) (TCSE)
-- [RSyntaxtree](https://yohasebe.com/rsyntaxtree): Syntax tree SVG/PNG image generator for linguists
-- [jReadability.net](https://jreadability.net) and other web-apps for learners/teachers of the Japanese language
+- 💬 [TED Corpus Search Engine (TCSE)](https://yohasebe.com/tcse): TED Talk full-text search for language researchers and educators 
+- 🌲 [RSyntaxtree](https://yohasebe.com/rsyntaxtree): Syntax tree SVG/PNG image generator for linguists
+- 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make [Fastmail](https://fastmail.com) Web UI more usable　and productive
+- 🇯🇵 [jReadability.net](https://jreadability.net/en-portal.html): Web apps and resources for teachers and learners of the Japanese language
 
 🌱 **I'm currently interested in**
 
-- the concepts of functional programming in Haskell
-- connections between theories of natural language (generative, cognitive, constructional, etc.) and paradigms of computer programming (OOP, FP, etc.)
+- Functional programming theories and concepts
+- Theoretical linguistics (of natural language)
+- Data visualization
 
-📫 **How to reach me**
+🤝 **How to reach me**
 
 - Twitter: [@yohasebe](https://twitter.com/yohasebe)
 - Email: [yohasebe@gmail.com](mailto:yohasebe@gmail.com)
-
+- Web: [yohasebe.com](https://yohasebe.com)
