@@ -6,7 +6,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 - 💬 [TED Corpus Search Engine (TCSE)](https://yohasebe.com/tcse): TED Talk full-text search for language researchers and educators 
 - 🌲 [RSyntaxtree](https://yohasebe.com/rsyntaxtree): Syntax tree SVG/PNG image generator for linguists
-- 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make [Fastmail](https://fastmail.com) Web UI more usable　and productive
+- 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make Fastmail (https://fastmail.com) Web UI more usable and productive
 - 🇯🇵 [jReadability.net](https://jreadability.net/en-portal.html): Web apps and resources for teachers and learners of the Japanese language
 
 🌱 **I'm currently interested in**
