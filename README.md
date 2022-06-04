@@ -22,6 +22,6 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 - Web: [yohasebe.com](https://yohasebe.com)
 
 <p align="left"> 
-  <img alt="Top Langs" width="300px" src="https://github-readme-stats-hfn3jpkwk-yohasebe.vercel.app/api/top-langs/?username=yohasebe&show_icons=true&theme=default" />
-  <img alt="github stats" width="300px" src="https://github-readme-stats-hfn3jpkwk-yohasebe.vercel.app/api?username=yohasebe&theme=default&show_icons=true" />
+  <img alt="Top Langs" src="https://github-readme-stats-hfn3jpkwk-yohasebe.vercel.app/api/top-langs/?username=yohasebe&show_icons=true&theme=default" />
+  <img alt="github stats" src="https://github-readme-stats-hfn3jpkwk-yohasebe.vercel.app/api?username=yohasebe&theme=default&show_icons=true" />
 </p>
