@@ -22,12 +22,12 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 🎩 **Alfred Workflows**
 
-- 🗣️ [DeepL Translate/Rewrite](https://github.com/yohasebe/deepl-alfred-translate-rewrite-workflow): Translate and rewrite text using the DeepL API or the Deepl free API
-- ⚡️ [fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow): Fuzzy find files/directories using fzf and fd
+- 🗣️ [DeepL Translate/Rewrite](https://github.com/yohasebe/deepl-alfred-translate-rewrite-workflow): Translate and rewrite text using the [DeepL API](https://www.deepl.com/en/docs-api/) or the Deepl free API
+- ⚡️ [fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow): Fuzzy find files/directories using [fzf](https://github.com/junegunn/fzf) and [fd](https://github.com/sharkdp/fd)
 
 🌈 **Browser Exentions**
 
-- 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make Fastmail (https://fastmail.com) more usable and productive
+- 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make [Fastmail](https://fastmail.com) more usable and productive
 
 ### 🤝 How to Reach Me
 
