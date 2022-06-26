@@ -11,7 +11,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 - 🇯🇵 [jReadability.net](https://jreadability.net/en-portal.html): Web apps and resources for teachers and learners of the Japanese language
 - 📄 [Paradocs](https://yohasebe.com/paradocs): A Paragraph-Oriented Text Document Presentation System
 
-💎 **Rubygems
+💎 **Rubygems**
 
 - 🚀 [ruby-spacy](https://github.com/yohasebe/ruby-spacy): A wrapper module for using spaCy natural language processing library from Ruby
 - 🏷 [EngTagger](https://github.com/yohasebe/engtagger): English Part-of-Speech Tagger Library
@@ -20,16 +20,16 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 - 🌏 [WP2TXT](https://github.com/yohasebe/wp2txt): Extracts plain text data from Wikipedia dump file (encoded in XML/compressed with Bzip2)
 - 🟩 [ruby-wordle](https://github.com/yohasebe/ruby-wordle): Ruby scripts to generate word-lists, solve Wordle, and play Wordle
 
-🎩 Alfred Workflows
+🎩 **Alfred Workflows**
 
 - 🗣️ [DeepL Translate/Rewrite]: Translate and rewrite text using the DeepL API or the Deepl free API
 - ⚡️ [fzf-alfred-workflow]: Fuzzy find files/directories using fzf and fd
 
-🌈 Browser Exentions
+🌈 **Browser Exentions**
 
 - 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make Fastmail (https://fastmail.com) Web UI more usable and productive
 
-🤝 **How to reach me**
+#### How to reach me
 
 - Twitter: [@yohasebe](https://twitter.com/yohasebe)
 - Email: [yohasebe@gmail.com](mailto:yohasebe@gmail.com)
