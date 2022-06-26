@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Yoichiro Hasebe (長谷部 陽一郎) 
+## Hi there 👋 I'm Yoichiro Hasebe (長谷部 陽一郎) 
 
 My research area includes cognitive linguistics, comparative linguistics, and corpus linguistics. I work on several projects of developing online systems that aid researchers, educators and learners of language.
 
-#### My Projects
+### 👨‍💻 My Projects
 
 🌐 **Web Services**
 
@@ -29,7 +29,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 - 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make Fastmail (https://fastmail.com) Web UI more usable and productive
 
-#### How to reach me
+### 🤝 How to reach me
 
 - Twitter: [@yohasebe](https://twitter.com/yohasebe)
 - Email: [yohasebe@gmail.com](mailto:yohasebe@gmail.com)
