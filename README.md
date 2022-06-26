@@ -7,18 +7,18 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 🌐 **Web Services**
 
 - 💬 [TED Corpus Search Engine (TCSE)](https://yohasebe.com/tcse): TED Talk full-text search for language researchers and educators 
-- 🌲 [RSyntaxtree Web](https://yohasebe.com/rsyntaxtree): Syntax tree SVG/PNG image generator for linguists
+- 🌲 [RSyntaxtree Web](https://yohasebe.com/rsyntaxtree): Syntax tree image generator for linguists
 - 🇯🇵 [jReadability.net](https://jreadability.net/en-portal.html): Web apps and resources for teachers and learners of the Japanese language
-- 📄 [Paradocs](https://yohasebe.com/paradocs): A Paragraph-Oriented Text Document Presentation System
+- 📄 [Paradocs](https://yohasebe.com/paradocs): A paragraph-oriented text presentation system with text-to-speech functionarity
 
 💎 **Rubygems**
 
 - 🚀 [ruby-spacy](https://github.com/yohasebe/ruby-spacy): A wrapper module for using spaCy natural language processing library from Ruby
-- 🏷 [EngTagger](https://github.com/yohasebe/engtagger): English Part-of-Speech Tagger Library
+- 🏷 [EngTagger](https://github.com/yohasebe/engtagger): English part-of-speech tagger library
 - 📝 [Lemmatizer](https://github.com/yohasebe/lemmatizer): Lemmatizer for English
-- 🌲 [RSyntaxtree](https://github.com/yohasebe/rsyntaxtree): Syntax tree SVG/PNG image generator for linguists
-- 🌏 [WP2TXT](https://github.com/yohasebe/wp2txt): Extracts plain text data from Wikipedia dump file (encoded in XML/compressed with Bzip2)
-- 🟩 [ruby-wordle](https://github.com/yohasebe/ruby-wordle): Ruby scripts to generate word-lists, solve Wordle, and play Wordle
+- 🌲 [RSyntaxtree](https://github.com/yohasebe/rsyntaxtree): Syntax tree image generator for linguists
+- 🌏 [WP2TXT](https://github.com/yohasebe/wp2txt): Extracts plain text data from Wikipedia dump file
+- 🟩 [ruby-wordle](https://github.com/yohasebe/ruby-wordle): Ruby scripts to create, solve, and play Wordle
 
 🎩 **Alfred Workflows**
 
@@ -27,7 +27,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 🌈 **Browser Exentions**
 
-- 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make Fastmail (https://fastmail.com) Web UI more usable and productive
+- 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make Fastmail (https://fastmail.com) more usable and productive
 
 ### 🤝 How to Reach Me
 
