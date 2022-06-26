@@ -29,7 +29,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 - 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make Fastmail (https://fastmail.com) Web UI more usable and productive
 
-### 🤝 How to reach me
+### 🤝 How to Reach Me
 
 - Twitter: [@yohasebe](https://twitter.com/yohasebe)
 - Email: [yohasebe@gmail.com](mailto:yohasebe@gmail.com)
