@@ -13,7 +13,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 💎 **Rubygems
 
-- 🚀 [ruby-spacy](https://github.com/yohasebe/ruby-spacy]: A wrapper module for using spaCy natural language processing library from Ruby
+- 🚀 [ruby-spacy](https://github.com/yohasebe/ruby-spacy): A wrapper module for using spaCy natural language processing library from Ruby
 - 🏷 [EngTagger](https://github.com/yohasebe/engtagger): English Part-of-Speech Tagger Library
 - 📝 [Lemmatizer](https://github.com/yohasebe/lemmatizer): Lemmatizer for English
 - 🌏 [WP2TXT](https://github.com/yohasebe/wp2txt): Extracts plain text data from Wikipedia dump file (encoded in XML/compressed with Bzip2)
