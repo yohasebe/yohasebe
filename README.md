@@ -22,8 +22,8 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 🎩 **Alfred Workflows**
 
-- 🗣️ [DeepL Translate/Rewrite]: Translate and rewrite text using the DeepL API or the Deepl free API
-- ⚡️ [fzf-alfred-workflow]: Fuzzy find files/directories using fzf and fd
+- 🗣️ [DeepL Translate/Rewrite](https://github.com/yohasebe/deepl-alfred-translate-rewrite-workflow): Translate and rewrite text using the DeepL API or the Deepl free API
+- ⚡️ [fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow): Fuzzy find files/directories using fzf and fd
 
 🌈 **Browser Exentions**
 
