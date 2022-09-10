@@ -28,7 +28,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 🌈 **Browser Exentions**
 
-- 📪 [Fastmail Plus](https://chrome.google.com/webstore/detail/fastmail-plus/ibgnnkojbkconppocnmdobeodcaijmfm): Chrome extension to make [Fastmail](https://fastmail.com) more usable and productive
+- 📪 [Fastmail Plus](https://github.com/yohasebe/fastmail-plus): Chrome/Firefox extension to make [Fastmail](https://fastmail.com) more usable and productive
 
 ### 🤝 How to Reach Me
 
