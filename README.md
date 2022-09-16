@@ -25,6 +25,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 - 🗣️ [DeepL Translate/Rewrite](https://github.com/yohasebe/deepl-alfred-translate-rewrite-workflow): Translate and rewrite text using the [DeepL API](https://www.deepl.com/en/docs-api/) or the Deepl free API
 - ⚡️ [fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow): Fuzzy find files/directories using [fzf](https://github.com/junegunn/fzf) and [fd](https://github.com/sharkdp/fd)
 - ⌨️ [Vim Command Workflow](https://github.com/yohasebe/vim-command-workflow): An Alfred workflow to search Vim command cheat sheet + and type a command
+
 🌈 **Browser Exentions**
 
 - 📪 [Fastmail Plus](https://github.com/yohasebe/fastmail-plus): Chrome/Firefox extension to make [Fastmail](https://fastmail.com) more usable and productive
