@@ -35,3 +35,9 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 - 🐦 Twitter: [@yohasebe](https://twitter.com/yohasebe)
 - 📧 Email: [yohasebe@gmail.com](mailto:yohasebe@gmail.com)
 - 🌐 Web: [yohasebe.com](https://yohasebe.com)
+
+<p align="left"> 
+  <img alt="github stats" height="172px" src="https://github-readme-stats.vercel.app/api?username=yohasebe" />
+  <img alt="Top Langs" height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohasebe&layout=compact&show_icons=true&theme=default" />
+</p>
+
