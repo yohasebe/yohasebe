@@ -13,6 +13,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 🖥 **CLI Tools**
 
+- 🤖 [Monadic::Chat](https://github.com/yohasebe/monadic-chat): Highly configurable CLI app for OpenAI's chat/text completion API
 - 🌏 [WP2TXT](https://github.com/yohasebe/wp2txt): Extracts plain text data from Wikipedia dump file
 - 🌲 [RSyntaxTree](https://github.com/yohasebe/rsyntaxtree): Syntax tree image generator for linguists
 - 🟩 [ruby-wordle](https://github.com/yohasebe/ruby-wordle): Ruby scripts to create, solve, and play Wordle
