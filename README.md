@@ -16,7 +16,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 🖥 **CLI Tools**
 
-- 🎙️ [Whisper Voice-to-Text Stream Transcriber](https://github.com/yohasebe/whisper-stream): A bash script that uses the Whisper API to transcribe continuous spoken audio into text
+- 🎙️ [Whisper Stream Transcriber](https://github.com/yohasebe/whisper-stream): A bash script that uses the Whisper API to transcribe continuous spoken audio into text
 - 🔤 [Monadic Chat CLI](https://github.com/yohasebe/monadic-chat-cli): Highly configurable CLI client app for OpenAI chat/text-completion API
 - 🌏 [WP2TXT](https://github.com/yohasebe/wp2txt): Extracts plain text data from Wikipedia dump file
 - 🌲 [RSyntaxTree](https://github.com/yohasebe/rsyntaxtree): Syntax tree image generator for linguists
