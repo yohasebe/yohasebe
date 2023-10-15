@@ -31,7 +31,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 🎩 **Alfred Workflows**
 
-- 🤖 [OpenAI Text-Completion Workflow](https://github.com/yohasebe/openai-text-completion-workflow): An Alfred workflow to help use [OpenAI](https://openai.com/api/)'s chat/text-completion API
+- 🤖 [OpenAI Chat API Workflow](https://github.com/yohasebe/openai-chat-api-workflow): An Alfred workflow to help use [OpenAI](https://openai.com/api/)'s Chat/DALL-E/Whisper API
 - 🗣️ [DeepL Translate/Rewrite](https://github.com/yohasebe/deepl-alfred-translate-rewrite-workflow): Translate and rewrite text using the [DeepL API](https://www.deepl.com/en/docs-api/) or the Deepl free API
 - ⚡️ [fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow): Fuzzy find files/directories using [fzf](https://github.com/junegunn/fzf) and [fd](https://github.com/sharkdp/fd)
 - ⌨️ [Vim Command Workflow](https://github.com/yohasebe/vim-command-workflow): An Alfred workflow to search Vim command cheat sheet + and type a command
