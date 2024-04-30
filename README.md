@@ -16,6 +16,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 
 🖥 **CLI Tools**
 
+- 📦 [Code Packager for LLMs](https://github.com/yohasebe/code-packager): Package your codebase into a JSON file, ready to be analyzed and understood by LLMs
 - 🎙️ [Whisper Stream](https://github.com/yohasebe/whisper-stream): A bash script that uses the Whisper API to transcribe continuous spoken audio into text
 - 🔤 [Monadic Chat CLI](https://github.com/yohasebe/monadic-chat-cli): Highly configurable CLI client app for OpenAI chat/text-completion API
 - 🌏 [WP2TXT](https://github.com/yohasebe/wp2txt): Extracts plain text data from Wikipedia dump file
