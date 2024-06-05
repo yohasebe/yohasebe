@@ -5,7 +5,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 ### 👨‍💻 My Projects
 
 🤖 AI Chatbot Framework
-- 🌟 [Monadic Chat](https://github.com/yohasebe/monadic-chat): A highly configurable Ruby framework for creating and using intelligent chatbots
+- 🌟 [Monadic Chat](https://github.com/yohasebe/monadic-chat): A framework designed to create and use intelligent chatbots equipped with a linux virual environment
 
 🌐 **Web Services**
 
