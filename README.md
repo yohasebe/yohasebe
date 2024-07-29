@@ -13,6 +13,7 @@ My research area includes cognitive linguistics, comparative linguistics, and co
 - 🌲 [RSyntaxTree Web](https://yohasebe.com/rsyntaxtree): Syntax tree image generator for linguists
 - 🇯🇵 [jReadability.net](https://jreadability.net/en-portal.html): Web apps and resources for teachers and learners of the Japanese language
 - 📄 [Paradocs](https://yohasebe.com/paradocs): A paragraph-oriented text presentation system with text-to-speech functionarity
+- ⏱️ [Five Block Timer](https://yohasebe.github.io/five-block-timer): A flexible and customizable web-based timer application ideal for presentations, exams, etc.
 
 🖥 **CLI Tools**
 
