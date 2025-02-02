@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Yoichiro Hasebe (長谷部 陽一郎) 
+## Hi there 👋 I'm Yoichiro Hasebe (yohasebe)
 
 My research focuses on cognitive linguistics, comparative linguistics, and corpus linguistics. I develop online systems to support language researchers, educators, and learners.
 
