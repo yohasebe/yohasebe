@@ -42,8 +42,3 @@ My research focuses on cognitive linguistics, comparative linguistics, and corpu
 - 🐦 Twitter: [@yohasebe](https://twitter.com/yohasebe)
 - 📧 Email: [yohasebe@gmail.com](mailto:yohasebe@gmail.com)
 - 🌐 Web: [yohasebe.com](https://yohasebe.com)
-
-<p align="left"> 
-  <img alt="Github Stats" height="178" src="https://github-readme-stats.vercel.app/api?username=yohasebe&layout=compact&hide_rank=true" />
-  <img alt="Top Langs" height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohasebe&layout=compact&theme=default" />
-</p>
