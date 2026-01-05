@@ -12,8 +12,6 @@ My research focuses on cognitive linguistics, comparative linguistics, and corpu
 - 💬 [TED Corpus Search Engine (TCSE)](https://yohasebe.com/tcse): TED Talk full-text search for language researchers and educators.
 - 🌲 [RSyntaxTree Web](https://yohasebe.com/rsyntaxtree): Syntax tree image generator for linguists.
 - 🇯🇵 [jReadability.net](https://jreadability.net/en-portal.html): Web apps and resources for teachers and learners of the Japanese language.
-- 📄 [Paradocs](https://yohasebe.com/paradocs): A paragraph-oriented text presentation system with text-to-speech functionality.
-- ⏱️ [Five Block Timer](https://yohasebe.github.io/five-block-timer): A flexible and customizable web-based timer application ideal for presentations, exams, etc.
 
 🖥 **CLI Tools**
 
@@ -38,10 +36,6 @@ My research focuses on cognitive linguistics, comparative linguistics, and corpu
 - 🧹 [Finder Unclutter](https://github.com/yohasebe/finder-unclutter): Remove duplicate Finder tabs and windows and arranges them into a single or dual-pane layout.
 - ⚡️ [fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow): Fuzzy find files/directories using [fzf](https://github.com/junegunn/fzf) and [fd](https://github.com/sharkdp/fd).
 - ⌨️ [Vim Command Workflow](https://github.com/yohasebe/vim-command-workflow): An Alfred workflow to search Vim command cheat sheet + and type a command.
-
-🌈 **Browser Extensions**
-
-- 📪 [Fastmail Plus](https://github.com/yohasebe/fastmail-plus): Chrome/Firefox extension to make [Fastmail](https://fastmail.com) more usable and productive.
 
 ### 🤝 How to Reach Me
 
