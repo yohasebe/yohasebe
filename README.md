@@ -7,6 +7,9 @@ My research focuses on cognitive linguistics, comparative linguistics, and corpu
 🤖 **AI Chatbot Apps**
 - 🌟 [Monadic Chat](https://github.com/yohasebe/monadic-chat): A locally hosted web app for creating and using intelligent chatbots on Mac/Win/Linux.
 
+💻 **MacOS Apps**
+- 🔈 [SpeechDock](https://github.com/yohasebe/speechdock): Mac menu bar STT/TTS app with system/app audio capture, live subtitles, OCR, and translation
+
 🌐 **Web Services**
 
 - 💬 [TED Corpus Search Engine (TCSE)](https://yohasebe.com/tcse): TED Talk full-text search for language researchers and educators.
