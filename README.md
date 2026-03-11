@@ -14,6 +14,7 @@ My research focuses on cognitive linguistics, comparative linguistics, and corpu
 
 - 💬 [TED Corpus Search Engine (TCSE)](https://yohasebe.com/tcse): TED Talk full-text search for language researchers and educators.
 - 🌲 [RSyntaxTree Web](https://yohasebe.com/rsyntaxtree): Syntax tree image generator for linguists.
+- 📄 [Paradocs](https://yohasebe.github.io/paradocs): Paragraph-oriented document presentation system with sentence-by-sentence highlighting and TTS.
 - 🇯🇵 [jReadability.net](https://jreadability.net/en-portal.html): Web apps and resources for teachers and learners of the Japanese language.
 
 🖥 **CLI Tools**
