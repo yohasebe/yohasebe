@@ -41,6 +41,10 @@ My research focuses on cognitive linguistics, comparative linguistics, and corpu
 - ⚡️ [fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow): Fuzzy find files/directories using [fzf](https://github.com/junegunn/fzf) and [fd](https://github.com/sharkdp/fd).
 - ⌨️ [Vim Command Workflow](https://github.com/yohasebe/vim-command-workflow): An Alfred workflow to search Vim command cheat sheet + and type a command.
 
+### 📝 Blog
+
+I write about my projects, linguistics, and things I find interesting at [yohasebe.com](https://yohasebe.com).
+
 ### 🤝 How to Reach Me
 
 - 🐦 Twitter: [@yohasebe](https://twitter.com/yohasebe)
