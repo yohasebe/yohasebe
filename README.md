@@ -18,6 +18,7 @@ Researcher in cognitive linguistics, comparative linguistics, and corpus linguis
 
 **Libraries and CLI Tools**
 
+- [ccm for tmux](https://github.com/yohasebe/tmux-ccm) -- Attention manager for parallel Claude Code sessions
 - [ruby-spacy](https://github.com/yohasebe/ruby-spacy) -- Ruby wrapper for the spaCy NLP library
 - [WP2TXT](https://github.com/yohasebe/wp2txt) -- Wikipedia dump to plain text converter
 - [Code Packager](https://github.com/yohasebe/code-packager) -- Package a codebase into a single JSON file for LLM analysis
