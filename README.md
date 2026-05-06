@@ -2,6 +2,10 @@
 
 Researcher in cognitive linguistics, comparative linguistics, and corpus linguistics. I build tools and systems for language researchers, educators, and learners.
 
+### Writing
+
+[yohasebe.com](https://yohasebe.com) -- I write about the projects below, AI-assisted development, linguistics, and adjacent topics. Most projects start as posts there.
+
 ### Projects
 
 **Apps**
@@ -30,10 +34,6 @@ Researcher in cognitive linguistics, comparative linguistics, and corpus linguis
 - [OpenAI Chat API Workflow](https://github.com/yohasebe/openai-chat-api-workflow) -- Use OpenAI's Chat, DALL-E, and Whisper APIs from Alfred
 - [fzf for Alfred](https://github.com/yohasebe/fzf-alfred-workflow) -- Fuzzy file and directory search in Alfred via fzf and fd
 - [Finder Unclutter](https://github.com/yohasebe/finder-unclutter) -- Remove duplicate Finder tabs and windows, arrange them into a single or dual-pane layout
-
-### Blog
-
-I write about my projects, linguistics, and other interests at [yohasebe.com](https://yohasebe.com).
 
 ### Contact
 
